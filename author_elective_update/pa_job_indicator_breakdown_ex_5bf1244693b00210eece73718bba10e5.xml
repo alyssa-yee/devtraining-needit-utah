@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex">
+    <pa_job_indicator_breakdown_ex action="DELETE">
+        <breakdown display_value="NeedIt Request type">d17168ce93700210eece73718bba10cc</breakdown>
+        <job_indicator display_value="temporary job for collecting NeedIt Requested for - NeedIt: Due Monthly">dbf1244693b00210eece73718bba10de</job_indicator>
+        <sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 18:51:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5bf1244693b00210eece73718bba10e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request type.temporary job for collecting NeedIt Requested for - NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicator_breakdown_ex_5bf1244693b00210eece73718bba10e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 18:51:08</sys_updated_on>
+    </pa_job_indicator_breakdown_ex>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ce042a551b76bd149377eb9b2d4bcb86</instance_id>
+        <instance_name>dev227045</instance_name>
+        <name>pa_job_indicator_breakdown_ex_5bf1244693b00210eece73718bba10e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex"><pa_job_indicator_breakdown_ex action="INSERT_OR_UPDATE"><breakdown display_value="NeedIt Request type">d17168ce93700210eece73718bba10cc</breakdown><job_indicator display_value="temporary job for collecting NeedIt Requested for - NeedIt: Due Monthly">dbf1244693b00210eece73718bba10de</job_indicator><sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-08 18:51:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5bf1244693b00210eece73718bba10e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Request type.temporary job for collecting NeedIt Requested for - NeedIt: Due Monthly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicator_breakdown_ex_5bf1244693b00210eece73718bba10e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-08 18:51:08</sys_updated_on></pa_job_indicator_breakdown_ex></record_update>]]></payload>
+        <payload_hash>-385570435</payload_hash>
+        <record_name>dbf1244693b00210eece73718bba10de</record_name>
+        <reverted_from/>
+        <source>3c2dbee993300210eece73718bba106c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 18:51:08</sys_created_on>
+        <sys_id>5ff1288693b00210eece73718bba1088</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e1f679e520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 18:51:08</sys_updated_on>
+        <type>Job Indicator Breakdown exclusions</type>
+        <update_guid>93f12886beb0021083ae84e371a63688</update_guid>
+        <update_guid_history>93f12886beb0021083ae84e371a63688:-385570435</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">c6ccec8293f00210eece73718bba106b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-08 19:38:17</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicator_breakdown_ex">pa_job_indicator_breakdown_ex</sys_db_object>
+        <sys_id>e0d5eaedaaf940b8be9692b647e45890</sys_id>
+        <sys_metadata>5bf1244693b00210eece73718bba10e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request type.temporary job for collecting NeedIt Requested for - NeedIt: Due Monthly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicator_breakdown_ex_5bf1244693b00210eece73718bba10e5</sys_update_name>
+        <sys_update_version display_value="pa_job_indicator_breakdown_ex_5bf1244693b00210eece73718bba10e5">5ff1288693b00210eece73718bba1088</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-08 19:38:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
